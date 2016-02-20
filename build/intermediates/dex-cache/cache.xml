@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sidney/Eggmasters/Bounce/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f95834c8c02ae8024f52258c7b6b2e83d03db4ae">
+        <dex dex="/home/sidney/Eggmasters/Bounce/android/build/intermediates/pre-dexed/debug/core-1.0-78eff71db603c57b791cb47ff4eb061f61c5d9b1.jar" />
+    </item>
+
+</items>
